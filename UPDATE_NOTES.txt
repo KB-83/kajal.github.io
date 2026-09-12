@@ -1,0 +1,5 @@
+Updates:
+- Removed Persian from Google Translate.
+- Theme persistence fixed across pages.
+- Google Translate limited to English/French.
+- Use class='notranslate' for names and publication titles.
